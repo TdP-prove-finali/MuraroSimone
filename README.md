@@ -3,7 +3,7 @@
 
 ## Istruzioni per l'installazione e l'utilizzo dell'applicazione
 
-- Forkare e clonare sul proprio editor (IDE testato: Eclipse) il progetto al link: https://github.com/TdP-prove-finali/AgostiniDavide.
+- Forkare e clonare sul proprio editor (IDE testato: Eclipse) il progetto al link: https://github.com/TdP-prove-finali/MuraroSimone.
 - Modificare all'interno della classe DBConnect, package db, la password di accesso al database, inserendo la propria.
 - Creare il database con le istruzioni riportate qui sotto.
 - Aprire il progetto ed eseguire la classe Main 
